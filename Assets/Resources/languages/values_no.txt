@@ -1,0 +1,2 @@
+tedraRate_title=Vil du gi oss en god anmeldelse?
+tedraRate_cancel=Tilbake

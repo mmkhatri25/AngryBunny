@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8563d32831a4a2d07476f01348442b58, type: 3}
+  m_Name: BunnyLaunch
+  m_EditorClassIdentifier:
+  clips:
+  - {fileID: 8300000, guid: a71b72718b67a804d82ce05a358a82f4, type: 3}
+  - {fileID: 8300000, guid: 97c183a1f7a4b084d9a09f843adb724b, type: 3}
+  - {fileID: 8300000, guid: e8215404416061443bf6206919f0bbf7, type: 3}
+  - {fileID: 8300000, guid: 6c8ead9c8a195664faa823488c254448, type: 3}
+  - {fileID: 8300000, guid: cdf0a359b1950ac40add2e3585f51746, type: 3}
+  - {fileID: 8300000, guid: eebeda4fb95cb8243931cf8d63098be4, type: 3}
+  - {fileID: 8300000, guid: 0f29806b0a4c2e74c96c9f93273dd764, type: 3}
+  - {fileID: 8300000, guid: d529f8bc6da8e294fb21401340819f91, type: 3}
+  volume: {x: 0.9, y: 1}
+  pitch: {x: 0.95, y: 1.1}
+  muteIfHidden: 1
+  hiddenDistance: 2

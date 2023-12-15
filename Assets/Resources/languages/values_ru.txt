@@ -1,0 +1,2 @@
+tedraRate_title=Оставите нам хороший отзыв?
+tedraRate_cancel=Назад
